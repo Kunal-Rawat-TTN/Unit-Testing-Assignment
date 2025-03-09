@@ -4,17 +4,18 @@ import junit.framework.TestCase;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
-public class EmailServiceTest extends TestCase {
+
+public class OrderServiceTest extends TestCase {
 
     @Test
     public void getInstance() {
     }
 
     @Test
-    public void sendEmail() {
+    public void placeOrder() {
     }
 
     @Test
-    public void testSendEmail() {
+    public void testPlaceOrder() {
     }
 }
